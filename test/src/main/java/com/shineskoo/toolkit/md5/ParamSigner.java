@@ -16,7 +16,7 @@ public class ParamSigner {
     private HashMap<String, Object> pamsMap = new HashMap<>();
 
     //签名秘钥(自定义)
-    public static final String APPKEY = "appKeyshineskoochengguangyao666";
+    public static final String APPKEY = "appKeyshineskoochenguangyao666";
 
     // 构造器
     public ParamSigner(HashMap<String, Object> pams) {

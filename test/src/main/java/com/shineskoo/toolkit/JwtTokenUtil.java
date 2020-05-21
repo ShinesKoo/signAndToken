@@ -48,7 +48,7 @@ public class JwtTokenUtil {
      * setSubject("张三") = "sub":"张三"
      * setIssuedAt(new Date()) = "iat":生成时间
      * 3）签名（signiture）
-     * 密钥 就是 "key"=xiumei
+     * 密钥 就是 "key"=shineskoo
      */
     public String createJWT(String openid) {
         long nowMillis = System.currentTimeMillis();
