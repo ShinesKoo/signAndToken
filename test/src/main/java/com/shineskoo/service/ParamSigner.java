@@ -1,4 +1,6 @@
-package com.shineskoo.toolkit.md5;
+package com.shineskoo.service;
+
+import com.shineskoo.toolkit.md5.MD5;
 
 import java.io.UnsupportedEncodingException;
 import java.security.NoSuchAlgorithmException;
